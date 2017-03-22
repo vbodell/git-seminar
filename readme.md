@@ -1,0 +1,3 @@
+# git seminar
+
+descriptive
